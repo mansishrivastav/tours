@@ -1,0 +1,13 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Aldrich&family=Archivo&family=Big+Shoulders+Inline+Text:wght@700&family=Black+Ops+One&family=Gudea:ital@1&family=Inconsolata:wght@500&family=Inter:wght@600&family=Jura:wght@700&family=Kanit:wght@300&family=Lato:wght@700&family=Lilita+One&family=Nunito&family=Nunito+Sans:opsz,wght@6..12,300&family=Righteous&family=Roboto+Slab:wght@600&family=Russo+One&family=Teko:wght@500&family=Ubuntu:wght@500&family=Unica+One&family=Yeseva+One&display=swap');
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  font-family: 'Poppins', sans-serif;
+  background-color: #f4f7f8;
+}
+
+

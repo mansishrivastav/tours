@@ -1,0 +1,33 @@
+.App {
+  margin-top: 2rem;
+  text-align: center;
+}
+
+.head{
+  position: relative;
+  padding-bottom: 1rem;
+}
+.head::before{
+  content: "";
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 5%;
+  border-bottom: 3px solid #2980b9;
+}
+h4{
+  margin-top: 3rem;
+  color:#d63031;
+  font-size: 2rem;
+  letter-spacing: 1px;  
+}
+button{
+  margin: 1rem;
+  padding: 0.5rem 1rem;
+  letter-spacing: 1px;
+  color: #c0392b;
+  font-weight: 700;
+  border: 1px solid #c0392b;
+  background-color: white;
+}
